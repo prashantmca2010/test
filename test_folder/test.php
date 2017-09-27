@@ -7,6 +7,7 @@
  */
 
 $a = 10;
+
 echo "hi Test, i = " + $a;
 
 ?>
